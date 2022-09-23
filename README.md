@@ -7,7 +7,7 @@ My name is Urenna Okeke and I started my career with a degree in Chemistry but m
 
 ### Finished Works ✔
 
-### Diamond Price Prediction: Machine Learning
+#### Diamond Price Prediction: Machine Learning
 * Utilized **Pandas** library for data manipulation and analysis 
 * Utilized **Scikit-learn** Licrary for predictive analysis
 
