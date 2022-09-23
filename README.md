@@ -14,8 +14,8 @@ My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career w
 #### Calculator Project
 * Used **Visual studio** to build calculator  | [GitHub](https://github.com/urennaco/Calculator_VB/blob/master/417%20Project/Form1.vb)
 
-#### ChatBot Project
-* Used **AppInventor** to buid a Chatbox
+#### Virtual Assistance Project
+* Used **AppInventor** to buid a  Virtual Assistance | [AppInventor](http://ai2.appinventor.mit.edu/#5037780907720704)
 
 #### Programming Languages and Skills
 
