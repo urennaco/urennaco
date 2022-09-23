@@ -17,9 +17,9 @@ My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career w
 #### ChatBot Project
 * Used **AppInventor** to buid a Chatbox
 
-### Programming Languages and Skills
+#### Programming Languages and Skills
 
-### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
+#### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
 
 
 <!--
