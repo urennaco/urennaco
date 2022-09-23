@@ -3,7 +3,6 @@ My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career w
 
 ### Currently Working on 🚀
 * Web Scrapping Projects with python 
-* 
 
 ### Finished Works ✔
 
