@@ -12,7 +12,7 @@ My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career w
 * Utilized **Scikit-learn** Licrary for predictive analysis
 
 #### Calculator Project
-* Used **Visual studio** to build calculator
+* Used **Visual studio** to build calculator | [GitHub](https://github.com/urennaco/Calculator_VB/blob/master/417%20Project/Form1.vb)
 
 #### ChatBot Project
 * Used **AppInventor** to buid a Chatbox
