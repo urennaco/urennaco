@@ -8,7 +8,7 @@ My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career w
 ### Finished Works ✔
 
 #### Diamond Price Prediction: Machine Learning
-* Utilized **Pandas**  and **Scikit-learn** library for data manipulation, Exploration and Predictive analysis | [GitHub](https://github.com/urennaco/Jupyterprojects/blob/main/ML_Project.ipynb) 
+* Utilized **Pandas**  and **Scikit-learn** library for data manipulation, Exploratory and Predictive analysis | [GitHub](https://github.com/urennaco/Jupyterprojects/blob/main/ML_Project.ipynb) 
 
 #### Calculator Project
 * Used **Visual studio** to build calculator  | [GitHub](https://github.com/urennaco/Calculator_VB/blob/master/417%20Project/Form1.vb)
