@@ -11,15 +11,15 @@ My name is Urenna Okeke and I started my career with a degree in Chemistry but m
 * Utilized **Pandas** library for data manipulation and analysis 
 * Utilized **Scikit-learn** Licrary for predictive analysis
 
-## Calculator Project
-*Used Visual studio to build calculator
+#### Calculator Project
+* Used **Visual studio** to build calculator
 
-## ChatBot Project
-*Used **AppInventor** to buid a Chatbox
+#### ChatBot Project
+* Used **AppInventor** to buid a Chatbox
 
-## Programming Languages and Skills
+#### Programming Languages and Skills
 
-### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
+#### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
 
 
 <!--
