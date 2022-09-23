@@ -17,9 +17,9 @@ My name is Urenna Okeke and I started my career with a degree in Chemistry but m
 #### ChatBot Project
 * Used **AppInventor** to buid a Chatbox
 
-#### Programming Languages and Skills
+### Programming Languages and Skills
 
-#### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
+### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
 
 
 <!--
