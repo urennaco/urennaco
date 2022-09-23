@@ -1,15 +1,15 @@
 ### Hi there 👋
 My name is Urenna Okeke and I started my career with a degree in Chemistry but my passion for buiding things at the interception of data and product piqued my interest to receive another bachelor's degree in Informations System and then a master's degree in Big data.
 
-## Currently Working on 🚀
-* # Web Scrapping Projects with python 
+### Currently Working on 🚀
+* Web Scrapping Projects with python 
 * 
 
-## Finished Works ✔
+### Finished Works ✔
 
 ### Diamond Price Prediction: Machine Learning
--Utilized ### Pandas library for data manipulation and analysis 
--Utilized ### Scikit-learn Licrary for predictive analysis
+-Utilized ###Pandas library for data manipulation and analysis 
+-Utilized ####Scikit-learn Licrary for predictive analysis
 
 ## Calculator Project
 -Used Visual studio to build calculator
