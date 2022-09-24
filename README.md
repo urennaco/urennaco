@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career with a degree in Chemistry but my passion for buiding things at the interception of data and product piqued my interest to receive another bachelor's degree in Informations System and then a master's degree in Big data. I am not great at coding but I enjoy the analytics application behind programming.
+My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career with a degree in Chemistry but my passion for buiding things at the interception of data and product piqued my interest to receive another bachelor's degree in Informations System and then a master's degree in Big data. I am new at coding and I enjoy the analytics application behind programming.
 
 ### Currently Working on 🚀
 * Web Scrapping Projects with python 
