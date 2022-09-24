@@ -17,7 +17,7 @@ My name is Urenna Okeke and I am a Data Scientist/Analyst. I started my career w
 
 #### Programming Languages and Skills
 
-![Visual Studio Code](https://github.com/topics/visual-studio-code) / SQL / R / C++/ Tableau
+Python/Visual Studio Code/ SQL / R / C++/ Tableau
 
 #### Lets Connect -[LinkedIn](www.linkedin.com/in/urenna-okeke-68716057)
 
