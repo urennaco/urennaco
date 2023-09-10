@@ -2,10 +2,11 @@
 I am a Data Scientist professional with a passion to transform business through data. I have an M.Sc. in Big Data Analytics and experience with various Machine Learning Frameworks to build robust models and extract valuable insights from complex datasets
 
 ### Currently Working on 🚀
-* Web Scrapping Projects with python.
+* CommonLit - Evaluate Student Summaries @Kaggle.
 
 ### Finished Works ✔
-
+#### Developed predictive model for ICR - Identifying Age-Related Conditions @kaggle.
+#### Designed an automated web crawler that collects and analyzes data from the Yahoo finance website.
 #### Diamond Price Prediction: Machine Learning
 * Utilized **Pandas**  and **Scikit-learn** library for data manipulation, Exploratory and Predictive analysis | [GitHub](https://github.com/urennaco/Jupyterprojects/blob/main/ML_Project.ipynb) 
 
